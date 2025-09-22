@@ -1,0 +1,8 @@
+gradio
+pandas
+spacy
+textblob
+requests
+json
+os
+re
